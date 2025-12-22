@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IPMS - Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Parking Allocation System</h1>
+    <label>Select Vehicle Type:</label>
+    <select id="vehicleType">
+        <option value="Car">Car ($10)</option>
+        <option value="Van">Van ($15)</option>
+        <option value="Truck">Truck ($25)</option>
+    </select>
+    <button onclick="bookParking()">Book Slot</button>
+    
+    <p id="message" style="font-weight: bold;"></p>
+    <p id="fee"></p>
+
+    <button class="logout-btn" onclick="window.location.href='index.html'">Log Out</button>
+
+    <script src="parking.js"></script>
+</body>
+</html>

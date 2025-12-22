@@ -1,0 +1,6 @@
+{
+  "system_name": "Intelligent Parking Management System",
+  "floors": ["Ground", "Floor 1", "Floor 2"],
+  "capacity": 50,
+  "status": "v1.1-updated"
+}
