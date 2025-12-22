@@ -19,5 +19,5 @@ For SCM demonstration purposes, the implemented prototype includes:
 
 ## Repository Structure
 
-The repository follows the structure required by the assignment:
+The repository follows the structure:
 
