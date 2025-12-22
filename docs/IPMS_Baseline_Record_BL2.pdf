@@ -1,0 +1,6 @@
+Baseline Record: BL2
+  - Baseline ID: BL2
+  - Date: Dec 22, 2025
+  - Description: This baseline covers the final version of the software after implementing the approved Change Requests (CR-01, CR-02, CR-03).
+  - Items Included: All files in /src (v1.1), Updated CI Register, Change Log, and Change Requests.
+  - Approval: Meron Kassahun (SCM Coordinator).
